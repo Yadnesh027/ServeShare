@@ -42,7 +42,7 @@ http://127.0.0.1:8000/
 
 2. **User Registration:** Sign up as a volunteer or organization by providing the required information.
 
-3. **User Profiles:** Complete your profile with relevant details, including bio, location, interests, and more.
+3. **User Profiles:** Complete your profile with relevant details.
 
 4. **Engage with Posts:** Volunteers can create and share posts about their experiences, thoughts, and insights. Organizations can post updates and upcoming events.
 
