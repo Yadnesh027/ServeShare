@@ -1,4 +1,4 @@
-# Community Engagement Platform
+# ServeShare
 
 A dynamic web application developed using HTML, CSS, JavaScript, and Django to connect volunteers and nonprofit organizations, facilitating collaboration for various social causes.
 
@@ -18,7 +18,7 @@ A dynamic web application developed using HTML, CSS, JavaScript, and Django to c
 ## Installation
 1.Clone the repository:
    ```
-   git clone https://github.com/samarth198/Serve-Share.git
+   git clone https://github.com/Yadnesh027/ServeShare.git
    ```
 2.Install the requirements:
    ```
